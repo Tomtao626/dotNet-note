@@ -1,0 +1,26 @@
+{
+  "Operations": [
+    {
+      "Operand1": 200.5,
+      "Operand2": 200.7,
+      "Operation": "Divide",
+      "Result": 0.9990034877927255
+    },
+    {
+      "Operand1": 34534.344,
+      "Operand2": 3432.4324,
+      "Operation": "Multiply",
+      "Result": 118536801.25834559
+    }
+  ]
+}
+
+
+echo aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1ndzJWbDFoODlXbw== | base64 --decode 照葫芦画瓢
+
+echo dTpUb21fVGFvNjI2CnA6QWkubmV0MTEyOS5jbg== | base64 --decode
+
+{
+  "Operand1":"Multiply",
+  "Operand2":"Divide"
+}

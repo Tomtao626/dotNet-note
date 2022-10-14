@@ -1,0 +1,1 @@
+E:\program\workspaces\csharpwork\dotNet-note\day03\HelloWorld\HelloWorld\HelloWorld.csproj;x86

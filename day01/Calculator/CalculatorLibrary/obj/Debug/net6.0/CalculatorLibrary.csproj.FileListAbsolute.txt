@@ -1,0 +1,12 @@
+E:\program\workspaces\csharpwork\dotNet-note\day01\Calculator\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.deps.json
+E:\program\workspaces\csharpwork\dotNet-note\day01\Calculator\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.dll
+E:\program\workspaces\csharpwork\dotNet-note\day01\Calculator\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.pdb
+E:\program\workspaces\csharpwork\dotNet-note\day01\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.csproj.AssemblyReference.cache
+E:\program\workspaces\csharpwork\dotNet-note\day01\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\program\workspaces\csharpwork\dotNet-note\day01\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.AssemblyInfoInputs.cache
+E:\program\workspaces\csharpwork\dotNet-note\day01\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.AssemblyInfo.cs
+E:\program\workspaces\csharpwork\dotNet-note\day01\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+E:\program\workspaces\csharpwork\dotNet-note\day01\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.dll
+E:\program\workspaces\csharpwork\dotNet-note\day01\Calculator\CalculatorLibrary\obj\Debug\net6.0\refint\CalculatorLibrary.dll
+E:\program\workspaces\csharpwork\dotNet-note\day01\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.pdb
+E:\program\workspaces\csharpwork\dotNet-note\day01\Calculator\CalculatorLibrary\obj\Debug\net6.0\ref\CalculatorLibrary.dll

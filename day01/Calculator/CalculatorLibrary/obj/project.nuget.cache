@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B+abIywrUXp9SC5os+C6Z+Hv72g9aUJofY1Yvg7oJ6XmuyWf/D/kG1qGF843I/JJ5s89pCTh9a/k+TqDS9dVPg==",
+  "success": true,
+  "projectFilePath": "E:\\program\\workspaces\\csharpwork\\dotNet-note\\day01\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomtao626\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
